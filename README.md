@@ -99,6 +99,7 @@
 - [Sentry](https://sentry.io) — Know about bugs before users tweet about them.
 - [Better Stack](https://betterstack.com) — Uptime checks + status page + log aggregation.
 - [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) — Gate deploys on performance budgets.
+- [agent-qa](https://vostride.com) — Autonomous QA for web, Android and iOS, with persistent memidex app memory and evidence-gated self-improvement (open source; FSL-1.1-ALv2; model/API costs separate).
 - [Plausible](https://plausible.io) / [PostHog](https://posthog.com) — Analytics without the cookie-banner circus / product analytics with session replay.
 
 ## 📣 Marketing on Autopilot
